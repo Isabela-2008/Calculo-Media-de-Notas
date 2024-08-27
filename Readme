@@ -1,0 +1,41 @@
+# Enunciado do Projeto: Calculadora de Aprovação Escolar
+
+## Objetivo
+
+Desenvolver um programa em Python que leia três notas fornecidas pelo usuário, calcule a média dessas notas e determine se o aluno está aprovado ou reprovado. O aluno é considerado aprovado se a média das notas for maior ou igual a 7.
+
+## Especificações
+
+1. **Leitura das Notas**
+   - O programa deve solicitar ao usuário que insira três notas.
+
+2. **Cálculo da Média**
+   - O programa deve calcular a média aritmética das três notas fornecidas.
+
+3. **Verificação de Aprovação**
+   - O programa deve verificar se a média calculada é maior ou igual a 7.
+   - Se a média for maior ou igual a 7, o programa deve exibir a mensagem "Aprovado".
+   - Caso contrário, o programa deve exibir a mensagem "Reprovado".
+
+## Considerações
+
+- O sistema deve ser executado em modo de linha de comando (CLI).
+- O código deve ser simples e organizado, com tratamento básico para garantir que a entrada seja um número válido.
+
+
+# Calculadora de Aprovação Escolar
+
+Este é um programa em Python que calcula a média de três notas fornecidas pelo usuário e determina se o aluno está aprovado ou reprovado. A aprovação é baseada em uma média igual ou superior a 7.
+
+## Funcionalidades
+
+- **Leitura das Notas:** O programa solicita ao usuário que insira três notas.
+- **Cálculo da Média:** O programa calcula a média aritmética das três notas fornecidas.
+- **Verificação de Aprovação:** O programa verifica se a média é maior ou igual a 7 e exibe uma mensagem de "Aprovado" ou "Reprovado" conforme o resultado.
+
+## Como Usar
+
+1. Clone este repositório:
+
+   ```bash
+   git clone https://github.com/seu-usuario/calculadora-aprovacao.git
